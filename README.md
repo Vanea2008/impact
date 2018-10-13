@@ -1,3 +1,7 @@
 # impact
-
-This repository is for learning
+This is my expreience
+with GITHUB
+!
+!
+!
+!
