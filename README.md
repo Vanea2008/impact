@@ -1,7 +1,3 @@
 # impact
 This is my expreience
-with GITHUB
-!
-!
-!
-!
+with GITHUBeto master vatka
